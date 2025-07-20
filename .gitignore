@@ -1,0 +1,13 @@
+
+# Flutter
+/flutter_frontend/.dart_tool/
+/flutter_frontend/build/
+/flutter_frontend/.idea/
+/flutter_frontend/.vscode/
+
+# Node
+/firebase_functions/node_modules/
+/devops_ci_cd/*.env
+
+# Deploy artifacts
+*.log
